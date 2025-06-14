@@ -1,6 +1,6 @@
 # /alejandrogour/phonebook-backend
 
-backend for the phonebook application with so much love ♥
+phonebook-backend application with so much love ♥<br>
 fullstackopen.com course / part 3b / june 15th of 2025
 
 ## live application on render platform (cloud)
