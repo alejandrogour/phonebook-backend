@@ -5,6 +5,7 @@ const app = express()
 
 // Middlewares
 app.use(cors())
+app.use(express.static('dist'))
 // Enable JSON parsing middleware
 app.use(express.json())
 // Configurar Morgan con formato tiny + post-body
