@@ -1,0 +1,13 @@
+# Create new person
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "number": "123-456-7890"
+}
+
+###
+
+# Get all persons
+GET http://localhost:3001/api/persons
