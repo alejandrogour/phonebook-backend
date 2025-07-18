@@ -1,13 +1,7 @@
-# Create new person
-POST http://localhost:3001/api/persons
-Content-Type: application/json
+### Get all people
 
-{
-  "name": "John Doe",
-  "number": "123-456-7890"
-}
-
-###
-
-# Get all persons
 GET http://localhost:3001/api/persons
+
+### Delete one person
+
+DELETE http://localhost:3001/api/persons/687109fc5b5a18238cc29a98
