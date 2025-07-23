@@ -1,7 +1,0 @@
-### Get all people
-
-GET http://localhost:3001/api/persons
-
-### Delete one person
-
-DELETE http://localhost:3001/api/persons/687109fc5b5a18238cc29a98
