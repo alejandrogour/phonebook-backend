@@ -4,7 +4,7 @@ Backend for the Phonebook application from Fullstack Open course (Part 3). Built
 
 ## Description
 This RESTful server enables creating, reading, updating, and deleting contacts. Features include:
-- React frontend integration (served in production from `/build`).
+- React frontend integration (served in production from `/dist`).
 - Mongoose validations (name min 3 chars, number min 8 chars with format validation, unique names).
 - Error middleware (CastError, ValidationError).
 - Deployed on Render.
