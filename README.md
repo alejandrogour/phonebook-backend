@@ -31,7 +31,7 @@ npm start
 ```bash
 npm run lint
 ```
-- Frontend build
+- Frontend build (watch `/package.json`)
 ```bash
 npm run build:ui
 ```
